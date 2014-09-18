@@ -14,3 +14,7 @@ get ambitious (and let's hope that I do), this will eventually
 contain an end-to-end example of building a predictive model
 in Hive and then deploying the model (and the associated feature
 extraction SQL!) into MongoDB or HBase for real-time scoring.
+
+All of the JAR files in the lib directory are built to work
+against CDH5; I'll post links to the various repos I used
+later today.
